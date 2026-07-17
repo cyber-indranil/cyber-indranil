@@ -4,7 +4,7 @@
 
 ### Indranil Mondal
 
-**Cybercrime Investigator • Cybersecurity Researcher • LEA-focused Technology Builder**
+**Consulting Cybercrime Investigator • Cybersecurity Researcher • LEA-focused Technology Builder**
 
 [![Cybercrime Investigation](https://img.shields.io/badge/Cybercrime-Investigation-8B0000?style=for-the-badge)](#)
 [![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-1F4E79?style=for-the-badge)](#)
