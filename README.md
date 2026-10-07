@@ -42,6 +42,7 @@ My work combines investigative experience with software development to transform
 | **RecallGrid** | Knowledge capture, structured archival and document-generation system |
 | **U-Turn Humanizer** | Controlled writing refinement and quality-assurance platform |
 | **CloakShield** | Android contact-alias privacy and restoration system |
+| **DomainTrace-X** | Domain Intelligence System |
 
 > Public repositories will contain sanitized code, documentation and demonstrations. Operational credentials, personal data, case evidence and protected investigative material are never published.
 
